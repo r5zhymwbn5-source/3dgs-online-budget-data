@@ -1,0 +1,205 @@
+{
+  "schema": "self-calibrating-budget-trace/1",
+  "stopped_at_forecast": false,
+  "stop_reason": null,
+  "error": null,
+  "seed_points": 5067,
+  "forecast_points": 134442.0,
+  "final_target": 94109,
+  "points_at_midpoint": 38005,
+  "events": [
+    {
+      "iteration": 600,
+      "before": 5067,
+      "eligible": 1568,
+      "after": 8314,
+      "target": 8333,
+      "probe_ms_conservative": 0.353
+    },
+    {
+      "iteration": 700,
+      "before": 8314,
+      "eligible": 2715,
+      "after": 11550,
+      "target": 11631,
+      "probe_ms_conservative": 0.135
+    },
+    {
+      "iteration": 800,
+      "before": 11550,
+      "eligible": 3543,
+      "after": 14893,
+      "target": 14930,
+      "probe_ms_conservative": 0.157
+    },
+    {
+      "iteration": 900,
+      "before": 14893,
+      "eligible": 4311,
+      "after": 18200,
+      "target": 18229,
+      "probe_ms_conservative": 0.156
+    },
+    {
+      "iteration": 1000,
+      "before": 18200,
+      "eligible": 4901,
+      "after": 21509,
+      "target": 21527,
+      "probe_ms_conservative": 0.125
+    },
+    {
+      "iteration": 1100,
+      "before": 21509,
+      "eligible": 5632,
+      "after": 24816,
+      "target": 24826,
+      "probe_ms_conservative": 0.135
+    },
+    {
+      "iteration": 1200,
+      "before": 24816,
+      "eligible": 6254,
+      "after": 28111,
+      "target": 28124,
+      "probe_ms_conservative": 0.116
+    },
+    {
+      "iteration": 1300,
+      "before": 28111,
+      "eligible": 6936,
+      "after": 31415,
+      "target": 31423,
+      "probe_ms_conservative": 0.118
+    },
+    {
+      "iteration": 1400,
+      "before": 31415,
+      "eligible": 7555,
+      "after": 34705,
+      "target": 34722,
+      "probe_ms_conservative": 0.124
+    },
+    {
+      "iteration": 1500,
+      "before": 34705,
+      "eligible": 8335,
+      "after": 38005,
+      "target": 38020,
+      "probe_ms_conservative": 0.112
+    },
+    {
+      "iteration": 1600,
+      "before": 38005,
+      "eligible": null,
+      "after": 42002,
+      "target": 42012,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 1700,
+      "before": 42002,
+      "eligible": null,
+      "after": 46012,
+      "target": 46020,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 1800,
+      "before": 46012,
+      "eligible": null,
+      "after": 50017,
+      "target": 50027,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 1900,
+      "before": 50017,
+      "eligible": null,
+      "after": 54024,
+      "target": 54035,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2000,
+      "before": 54024,
+      "eligible": null,
+      "after": 58031,
+      "target": 58042,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2100,
+      "before": 58031,
+      "eligible": null,
+      "after": 62042,
+      "target": 62050,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2200,
+      "before": 62042,
+      "eligible": null,
+      "after": 66051,
+      "target": 66057,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2300,
+      "before": 66051,
+      "eligible": null,
+      "after": 70052,
+      "target": 70064,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2400,
+      "before": 70052,
+      "eligible": null,
+      "after": 74066,
+      "target": 74072,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2500,
+      "before": 74066,
+      "eligible": null,
+      "after": 78070,
+      "target": 78079,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2600,
+      "before": 78070,
+      "eligible": null,
+      "after": 82079,
+      "target": 82087,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2700,
+      "before": 82079,
+      "eligible": null,
+      "after": 86084,
+      "target": 86094,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2800,
+      "before": 86084,
+      "eligible": null,
+      "after": 90086,
+      "target": 90102,
+      "probe_ms_conservative": 0.0
+    },
+    {
+      "iteration": 2900,
+      "before": 90086,
+      "eligible": null,
+      "after": 94096,
+      "target": 94109,
+      "probe_ms_conservative": 0.0
+    }
+  ],
+  "probe_ms_conservative_total": 1.531
+}
