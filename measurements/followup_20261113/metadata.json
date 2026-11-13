@@ -1,0 +1,47 @@
+{
+  "planned_runs": 135,
+  "completed_runs": 135,
+  "highcap_full_planned_runs": 12,
+  "highcap_full_completed_runs": 12,
+  "all_grid_metrics_completed_and_validated": true,
+  "view_rows": 3984,
+  "forecast_1m_validated_pairs": 27,
+  "taming_commit": "fd0f7d9edfe135eb4eefd3be82ee56dada7f2a16",
+  "dash_commit": "4e3b5606e593b5e58b90a5c3ea8c421bedc308a1",
+  "gpu_and_driver": "NVIDIA GeForce RTX 3070 Ti Laptop GPU, 616.56, 8192 MiB",
+  "python_version": "3.13.15 | packaged by Anaconda, Inc. | (main, Aug 14 2026, 17:17:48) [MSC v.1942 64 bit (AMD64)]",
+  "packages": {
+    "torch": "2.11.0+cu128",
+    "torchvision": "0.26.0+cu128",
+    "numpy": "2.5.2",
+    "Pillow": "11.1.0",
+    "plyfile": "1.1.5",
+    "tqdm": "4.70.0"
+  },
+  "source_snapshot_sha256": "26ffc3d6f34f1b254a67aeeb50ed78f68a947616d1e7ffdabf5f4b347f62b9a8",
+  "lpips_scorers_sha256": {
+    "cpu": "d0f2cd656c47186b4451b12badfdfc76dbd1fd52d1430a7dc7bf931ce3b47285",
+    "cuda": "1874daa1dc8ef5250c6723997fb95fdd7149608684c2818ddfd42ed1e41f916c"
+  },
+  "lpips_module_sha256_current": {
+    "lpipsPyTorch/__init__.py": "35806c438336e43c00bc7e5edc353c3de03926fc7b58cbb7e40a61678fcef4b5",
+    "lpipsPyTorch/modules/lpips.py": "61272ed285c812cb420a3255448b52fd1fdcb14c3bd2c04c16e3fc4b297651d2",
+    "lpipsPyTorch/modules/networks.py": "92a21e6eaedd0211f2a535f07855447ff4436cdeff66fecedcc943f827d1be98",
+    "lpipsPyTorch/modules/utils.py": "4c371e9b71371ea0cd376313f2a94e2ff04a54778ee07444efb27117e90e5a4f"
+  },
+  "lpips_cpu_module_hash_note": "Earlier CPU results did not record module hashes at scoring time.",
+  "lpips_weights": {
+    "vgg16-397923af.pth": {
+      "source": "https://download.pytorch.org/models/vgg16-397923af.pth",
+      "sha256": "397923af8e79cdbb6a7127f12361acd7a2f83e06b05044ddf496e83de57a5bf0",
+      "bytes": 553433881
+    },
+    "vgg.pth": {
+      "source": "https://raw.githubusercontent.com/richzhang/PerceptualSimilarity/master/lpips/weights/v0.1/vgg.pth",
+      "sha256": "a78928a0af1e5f0fcb1f3b9e8f8c3a2a5a3de244d830ad5c1feddc79b8432868",
+      "bytes": 7289
+    }
+  },
+  "lpips": "VGG v0.1, RGB normalized to [-1,1]; blank means not scored",
+  "note": "Numerical export; missing, running and failed runs remain visible in status fields."
+}

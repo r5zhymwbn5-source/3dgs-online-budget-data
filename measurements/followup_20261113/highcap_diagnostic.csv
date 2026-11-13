@@ -1,0 +1,7 @@
+scene,seed,reference_status,reference_endpoint,cap_rejection_events,probe_status,forecast_points,forecast_at_ceiling,cross_trainer_difference_percent
+garden,0,ok,1068130,0,ok,1074921.0,False,0.6357840337786635
+garden,1,ok,1065806,0,ok,1069586.0,False,0.35466116722930874
+garden,2,ok,1058830,0,ok,1079423.5,False,1.944929780984661
+bicycle,0,ok,1267487,0,ok,901447.5,False,-28.879152212212034
+bicycle,1,ok,1266801,0,ok,909652.5,False,-28.192944274594034
+bicycle,2,ok,1270163,0,ok,905430.0,False,-28.715448332221925
